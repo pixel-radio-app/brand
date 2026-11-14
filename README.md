@@ -5,7 +5,7 @@
 <h1 align="center">Pixel Radio brand kit</h1>
 
 <p align="center">
-Logos, colors, fonts and images for writing about <a href="https://pixelradio.app/en/">Pixel Radio</a> —
+Logos, colors, fonts and images for writing about <a href="https://pixelradio.app/en/?utm_source=github&utm_medium=referral&utm_campaign=brand-kit">Pixel Radio</a> —
 24/7 music radio for Telegram group voice chats.
 </p>
 
@@ -63,5 +63,5 @@ Write **Pixel Radio** — two words, both capitalized. The bot is **@PixelRadiob
 You may use these files to write about, review, link to or list Pixel Radio. Don't use them in a way that suggests
 your product is made or endorsed by Pixel Radio. The Pixel Radio name and logo remain the property of their owner.
 
-Questions: [info@pixelradio.app](mailto:info@pixelradio.app) · [Website](https://pixelradio.app) ·
+Questions: [info@pixelradio.app](mailto:info@pixelradio.app) · [Website](https://pixelradio.app?utm_source=github&utm_medium=referral&utm_campaign=brand-kit) ·
 [Bot](https://t.me/PixelRadiobot) · [Channel](https://t.me/Pixel_Radio)
